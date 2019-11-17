@@ -17,6 +17,8 @@
   </dependencies>
   <build>
     <finalName>java-web-project</finalName>
+    <distributionManagement>
+      </distributionManagement>
   <pluginManagement>
     <plugins>
       <plugin>
