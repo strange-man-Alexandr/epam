@@ -27,13 +27,4 @@
     </plugins>
   </pluginManagement>
 </build>
-  <repository>
-  <id>this_cool_repo</id>
-   <url>http://http://192.168.1.254>:8181/repository/this_cool_repo</url>
-   </repository>
-  <snapshotRepository>
-  <id>this_cool_repo</id>
-  <url>http://http://192.168.1.254>:8181/repository/this_cool_repo</url>
-  </snapshotRepository>
-  </distributionManagement>
 </project>
